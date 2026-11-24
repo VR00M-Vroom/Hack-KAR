@@ -1,9 +1,19 @@
 ---
-title: "Hack Kar"
-author: "VROOOM"
-description: "A RC Car with scraped parts from my other RC cars, and will include a fully 3D printed Chassis, Tears and some Energy Drinks."
-created_at: "2026-05-25"
+"Hack Kar"
+ "VROOOM"
+ "A RC Car with scraped parts from my other RC cars, and will include a fully 3D printed Chassis, Tears and some Energy Drinks."
+ "2026-05-25"
 ---
+# 11-23-2026 Log B
+# First Steps 
+ The project started again with a little progress on the shock tower, designing the stock part from the car I scrapped. The main challenge of this part were the complex geometries and dimensions which were hard to read with just a caliper, but it was eventually finished. I learned how to use the offset feature which came in to be incredibly useful throughout the process and am looking foward to modeling the next steps of this project, the Diffy cover.
+  ![image]<img width="3024" height="4032" alt="IMG_0428" src="https://github.com/user-attachments/assets/50d8d7e6-6f9a-4938-ba8b-9f46bdddda97" />
+<img width="787" height="798" alt="Screenshot 2026-11-23 234157" src="https://github.com/user-attachments/assets/66c76f97-2a89-4766-8892-75658b1eb25b" />
+
+# 11-23-2026 Log A
+# Its been a long while...
+it has been a few months since I touched this project, most notably to other commitments and inconsistencies, but also a lack of proper preparation for the length and duration of this project. I started out with a vague idea and no method to approach this endeavor and frankly, it nearly ended like the rest of my projects. It initially started out on Hackclub, thats' why there are so many dates with time logs and such, but I felt that the program had too many constraints in terms of time, which was a main cause of resistance to this project coming to a sudden halt. 
+  Thus i am taking a new approach in overcoming this monumental project by taking it in pieces that are easy to commit to and have a clear goal. First of all, each day must have at least one entry or commit in GitHub showing progress and the challenges that occurred that day, along with 1 to 4 pictures showing it. 3 sentences at the end to present what happened and challenges faced, as well as what to commit to the next day of work and progress.  
 
 # 2026-06-24: Making the Knuckle V2.1
 
